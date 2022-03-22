@@ -1,0 +1,21 @@
+body{
+  background: lightseagreen;
+  font-size: xx-large;
+  text-align: center;
+  font-weight:800
+}
+span{
+  color: white;
+  text-align: center;
+  font-size: large;
+  font-weight:700;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif  
+}
+h1{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: large;
+  font-weight:800;
+  color: white;
+  text-align: center;
+  top: 50%;
+}
